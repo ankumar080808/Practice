@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>spring-boot-docker-maven</artifactId>
+	<artifactId>docker-jenkins-integration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Practice</name>
 	<description>Spring Boot Practice Project</description>
